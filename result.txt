@@ -1,0 +1,184 @@
+﻿This is the TestTextQurry function:
+
+This is the PrintSentencesOrdered function:
+It was the best of times,
+it was the worst of times,
+it was the age of wisdom,
+it was the age of foolishness,
+it was the epoch of belief,
+it was the epoch of incredulity,
+it was the season of Light,
+it was the season of Darkness,
+it was the spring of hope,
+it was the winter of despair,
+we had everything before us,
+we had nothing before us,
+we were all going direct to heaven,
+we were all going direct the other way -in short,
+the period was so far like the present period,
+that some of its noisiest authorities insisted on its being received,
+for good or for evil,
+in the superlative degree of comparison only.
+-- Charles Dickens,
+A Tale of Two Cities
+
+
+This is the PrintWorldCount function :
+the word:a               occurrences: 1
+the word:age             occurrences: 2
+the word:all             occurrences: 2
+the word:authorities     occurrences: 1
+the word:before          occurrences: 2
+the word:being           occurrences: 1
+the word:belief          occurrences: 1
+the word:best            occurrences: 1
+the word:charles         occurrences: 1
+the word:cities          occurrences: 1
+the word:comparison      occurrences: 1
+the word:darkness        occurrences: 1
+the word:degree          occurrences: 1
+the word:despair         occurrences: 1
+the word:dickens         occurrences: 1
+the word:direct          occurrences: 2
+the word:epoch           occurrences: 2
+the word:everything      occurrences: 1
+the word:evil            occurrences: 1
+the word:far             occurrences: 1
+the word:foolishness     occurrences: 1
+the word:for             occurrences: 1
+the word:going           occurrences: 2
+the word:good            occurrences: 1
+the word:had             occurrences: 2
+the word:heaven          occurrences: 1
+the word:hope            occurrences: 1
+the word:in              occurrences: 2
+the word:incredulity     occurrences: 1
+the word:insisted        occurrences: 1
+the word:it              occurrences: 10
+the word:its             occurrences: 1
+the word:light           occurrences: 1
+the word:like            occurrences: 1
+the word:noisiest        occurrences: 1
+the word:nothing         occurrences: 1
+the word:of              occurrences: 13
+the word:on              occurrences: 1
+the word:only            occurrences: 1
+the word:or              occurrences: 1
+the word:other           occurrences: 1
+the word:period          occurrences: 1
+the word:present         occurrences: 1
+the word:received        occurrences: 1
+the word:season          occurrences: 2
+the word:short           occurrences: 1
+the word:so              occurrences: 1
+the word:some            occurrences: 1
+the word:spring          occurrences: 1
+the word:superlative     occurrences: 1
+the word:tale            occurrences: 1
+the word:that            occurrences: 1
+the word:the             occurrences: 13
+the word:times           occurrences: 2
+the word:to              occurrences: 1
+the word:two             occurrences: 1
+the word:us              occurrences: 2
+the word:was             occurrences: 11
+the word:way             occurrences: 1
+the word:we              occurrences: 4
+the word:were            occurrences: 2
+the word:winter          occurrences: 1
+the word:wisdom          occurrences: 1
+the word:worst           occurrences: 1
+
+enter word to look for, or q to quit: times
+
+This is the PrintSentencesFiltered function :
+        (line 1) It was the best of times,
+        (line 2) it was the worst of times,
+
+This is the ReplaceWord function
+input the old word:was
+input the new word:is
+
+It is the best of times,
+it is the worst of times,
+it is the age of wisdom,
+it is the age of foolishness,
+it is the epoch of belief,
+it is the epoch of incredulity,
+it is the season of Light,
+it is the season of Darkness,
+it is the spring of hope,
+it is the winter of despair,
+the period is so far like the present period,
+finished
+
+enter word to look for, or q to quit: q
+
+This is the TestShape function
+constructer 1
+constructor 2
+the area of rectangle is:
+15
+constructer 1
+constructor 3
+the area of the circle:
+78.5
+constructer 1
+constructor 2
+constructor 4
+the area of the square:
+25
+destructor 4
+destructor 2
+destructor 1
+destructor 3
+destructor 1
+destructor 2
+destructor 1
+
+C:\Users\mqz\source\repos\Project6\Debug\Project6.exe (进程 15392)已退出，代码为 0。
+按任意键关闭此窗口. . .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
